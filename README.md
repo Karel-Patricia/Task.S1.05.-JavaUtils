@@ -11,42 +11,42 @@ Este repositorio contiene la resolución de los ejercicios de Java utils en Java
 
 Crea una clase que liste alfabéticamente el contenido de un directorio recibido por parámetro.
 
-# Posición
+* Posición :
 cd src/main/java
-# Compila
+* Compila :
 javac ejercicio1nivel1/Main.java ejercicio1nivel1/AlphabeticList.java
-# Ejecución
+* Ejecución :
 java ejercicio1nivel1.Main .
 
 ### Ejercicio 2
 
 Añade a la clase del ejercicio anterior, la funcionalidad de listar un árbol de directorios con el contenido de todos sus niveles (recursivamente) de forma que se impriman en pantalla en orden alfabético dentro de cada nivel, indicando además si es un directorio (D) o un archivo (F), y su última fecha de modificación
 
-* Posición
+* Posición : 
 cd src/main/java
-* Compila
+* Compila :
 javac ejercicio2nivel1/Main.java ejercicio2nivel1/RecursiveSortedDirectory.java
-* Ejecución
+* Ejecución :
 java ejercicio2nivel1.Main .
 
 ### Ejercicio 3
 Modifica el ejercicio anterior. Ahora, en lugar de mostrar el resultado por la pantalla, guarda el resultado en un archivo TXT.
 
-* Posición en el directorio raíz del código Java
+* Posición :
 cd src/main/java
-* Compila las clases del ejercicio 3
+* Compila :
 javac ejercicio3nivel1/Main.java ejercicio3nivel1/RecursiveWriteFile.java
-* Ejecuta el programa, indicando el directorio a listar y el archivo de salida
+* Ejecuta :
 java ejercicio3nivel1.Main . directory_tree.txt
 
 ### Ejercicio 4
 
 Añade la funcionalidad de leer cualquier archivo TXT y muestra su contenido por consola.
-* Posición
+* Posición : 
 cd src/main/java
-* Compila
+* Compila :
 javac ejercicio4nivel1/Main.java ejercicio4nivel1/FileReaderUtil.java
-* Ejecución
+* Ejecución :
 java ejercicio4nivel1.Main directory_tree.txt
 
 
