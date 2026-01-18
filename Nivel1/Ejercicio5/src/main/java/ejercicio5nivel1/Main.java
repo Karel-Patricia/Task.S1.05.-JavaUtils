@@ -9,12 +9,12 @@ public class Main {
         BookSerializer.serializeBook(book, filename);
 
         Book deserializedBook = BookSerializer.deserializeBook(filename);
-        
+
         if (deserializedBook != null) {
             System.out.println("Deserialized Book: " + deserializedBook);
         } else {
             System.out.println("Failed to deserialize book.");
         }
     }
-    }
+    
 }

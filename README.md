@@ -49,6 +49,15 @@ javac ejercicio4nivel1/Main.java ejercicio4nivel1/FileReaderUtil.java
 * Ejecución :
 java ejercicio4nivel1.Main directory_tree.txt
 
+### Ejercicio 5
+
+Ahora el programa debe serializar un Objeto Java a un archivo .ser y después debe desserializarlo.
+* Posición : 
+cd src/main/java
+* Compila :
+javac ejercicio5nivel1/Book.java ejercicio5nivel1/BookSerializer.java ejercicio5nivel1/Main.java
+* Ejecución :
+java ejercicio5nivel1.Main
 
 ## 🛠️Tecnologías
 - IntelliJ IDEA 
