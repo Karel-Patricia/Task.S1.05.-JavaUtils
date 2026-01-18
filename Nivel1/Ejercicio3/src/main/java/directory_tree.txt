@@ -1,0 +1,6 @@
+(F) directory_tree.txt - Last modification: 2026-01-18 20:03:18
+(D) ejercicio3nivel1 - Last modification: 2026-01-18 19:10:50
+    (F) Main.class - Last modification: 2026-01-18 19:10:50
+    (F) Main.java - Last modification: 2026-01-18 19:09:04
+    (F) RecursiveWriteFile.class - Last modification: 2026-01-18 19:10:50
+    (F) RecursiveWriteFile.java - Last modification: 2026-01-18 19:03:53
